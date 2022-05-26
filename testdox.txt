@@ -1,5 +1,6 @@
 Alura\Leilao\Tests\Integration\Dao\LeilaoDao
- [x] Insercao e busca devem funcionar
+ [x] Busca leiloes nao finalizados with data set #0
+ [x] Busca leiloes finalizados with data set #0
 
 Alura\Leilao\Tests\Unit\Domain\Leilao
  [x] Propor lance em leilao finalizado deve lancar excecao
